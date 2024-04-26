@@ -1,0 +1,1010 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001446">
+    <geo:stopName>Buix</geo:stopName>
+    <geo:long>7.02998000</geo:long>
+    <geo:lat>47.4793300</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80142893">
+    <geo:stopName>Appenweier</geo:stopName>
+    <geo:long>7.97350000</geo:long>
+    <geo:lat>48.5419000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001206">
+    <geo:stopName>Courtételle</geo:stopName>
+    <geo:long>7.31794000</geo:long>
+    <geo:lat>47.3428200</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80143503">
+    <geo:stopName>Freiburg (Breisgau) Hbf</geo:stopName>
+    <geo:long>7.84160000</geo:long>
+    <geo:lat>47.9979000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107458">
+    <geo:stopName>Gudmont-Centre</geo:stopName>
+    <geo:long>5.13696900</geo:long>
+    <geo:lat>48.3425160</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85162834">
+    <geo:stopName>Genève-Sécheron</geo:stopName>
+    <geo:long>6.14455700</geo:long>
+    <geo:lat>46.2224380</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010033">
+    <geo:stopName>Satigny</geo:stopName>
+    <geo:long>6.03749000</geo:long>
+    <geo:lat>46.2142400</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010157">
+    <geo:stopName>Tannay</geo:stopName>
+    <geo:long>6.18112700</geo:long>
+    <geo:lat>46.3076360</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87110189">
+    <geo:stopName>Marcenat</geo:stopName>
+    <geo:long>2.82872200</geo:long>
+    <geo:lat>45.3052590</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107466">
+    <geo:stopName>Eurville Mairie</geo:stopName>
+    <geo:long>5.03725000</geo:long>
+    <geo:lat>48.5852970</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80251819">
+    <geo:stopName>Trèves</geo:stopName>
+    <geo:long>6.65220000</geo:long>
+    <geo:lat>49.7568000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87110379">
+    <geo:stopName>Fays-la-Chapelle</geo:stopName>
+    <geo:long>4.01893300</geo:long>
+    <geo:lat>48.1296960</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001214">
+    <geo:stopName>Courfaivre</geo:stopName>
+    <geo:long>7.29117000</geo:long>
+    <geo:lat>47.3350800</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85171421">
+    <geo:stopName>Lancy-Bachet</geo:stopName>
+    <geo:long>6.12937200</geo:long>
+    <geo:lat>46.1743330</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107409">
+    <geo:stopName>Vignory Centre</geo:stopName>
+    <geo:long>5.10141900</geo:long>
+    <geo:lat>48.2783520</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85043000">
+    <geo:stopName>Biel/Bienne</geo:stopName>
+    <geo:long>7.24292000</geo:long>
+    <geo:lat>47.1328900</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85162727">
+    <geo:stopName>Genève-Champel</geo:stopName>
+    <geo:long>6.15350500</geo:long>
+    <geo:lat>46.1921910</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85042150">
+    <geo:stopName>Travers</geo:stopName>
+    <geo:long>6.67657000</geo:long>
+    <geo:lat>46.9424100</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001289">
+    <geo:stopName>Boncourt</geo:stopName>
+    <geo:long>7.01656000</geo:long>
+    <geo:lat>47.4926300</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87110197">
+    <geo:stopName>Condat</geo:stopName>
+    <geo:long>2.75983800</geo:long>
+    <geo:lat>45.3348350</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87024380">
+    <geo:stopName>Le Puy-en-Velay Lafayette</geo:stopName>
+    <geo:long>3.87995900</geo:long>
+    <geo:lat>45.0439620</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107474">
+    <geo:stopName>Saint-Dizier Godard-Jeanson</geo:stopName>
+    <geo:long>4.95030400</geo:long>
+    <geo:lat>48.6314070</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80142927">
+    <geo:stopName>Kehl</geo:stopName>
+    <geo:long>7.80630000</geo:long>
+    <geo:lat>48.5767000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87110361">
+    <geo:stopName>Villeneuve-au-Chemin</geo:stopName>
+    <geo:long>3.85131700</geo:long>
+    <geo:lat>48.0899010</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-83045013">
+    <geo:stopName>VENTIMIGLIA</geo:stopName>
+    <geo:long>7.61023300</geo:long>
+    <geo:lat>43.7925690</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107417">
+    <geo:stopName>Chaumont Hôpital</geo:stopName>
+    <geo:long>5.13941300</geo:long>
+    <geo:lat>48.1198810</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010215">
+    <geo:stopName>Genthod-Bellevue</geo:stopName>
+    <geo:long>6.15396200</geo:long>
+    <geo:lat>46.2567280</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85162735">
+    <geo:stopName>Genève-Eaux-Vives</geo:stopName>
+    <geo:long>6.16658000</geo:long>
+    <geo:lat>46.2014440</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87110171">
+    <geo:stopName>Landeyrat</geo:stopName>
+    <geo:long>2.86959400</geo:long>
+    <geo:lat>45.2798150</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010140">
+    <geo:stopName>Mies</geo:stopName>
+    <geo:long>6.16956600</geo:long>
+    <geo:lat>46.2998790</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010132">
+    <geo:stopName>Pont-Céard</geo:stopName>
+    <geo:long>6.16266700</geo:long>
+    <geo:lat>46.2873900</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001057">
+    <geo:stopName>Moutier</geo:stopName>
+    <geo:long>7.38105000</geo:long>
+    <geo:lat>47.2806700</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87005397">
+    <geo:stopName>Cany-Barville</geo:stopName>
+    <geo:long>0.63780500</geo:long>
+    <geo:lat>49.7886290</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87003707">
+    <geo:stopName>Ydes</geo:stopName>
+    <geo:long>2.43632600</geo:long>
+    <geo:lat>45.3441550</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80143099">
+    <geo:stopName>Offenburg</geo:stopName>
+    <geo:long>7.94680000</geo:long>
+    <geo:lat>48.4765000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82007187">
+    <geo:stopName>Bascharage secteur Sanem</geo:stopName>
+    <geo:long>5.92490000</geo:long>
+    <geo:lat>49.5585000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107425">
+    <geo:stopName>Bologne Salle des Fêtes</geo:stopName>
+    <geo:long>5.14141600</geo:long>
+    <geo:lat>48.1997370</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82002501">
+    <geo:stopName>Howald</geo:stopName>
+    <geo:long>6.13232000</geo:long>
+    <geo:lat>49.5803200</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85000109">
+    <geo:stopName>Basel SBB</geo:stopName>
+    <geo:long>7.58956000</geo:long>
+    <geo:lat>47.5474000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85001412">
+    <geo:stopName>Courchavon</geo:stopName>
+    <geo:long>7.05765000</geo:long>
+    <geo:lat>47.4397700</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010207">
+    <geo:stopName>Chambésy</geo:stopName>
+    <geo:long>6.14734200</geo:long>
+    <geo:lat>46.2423780</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010025">
+    <geo:stopName>Russin</geo:stopName>
+    <geo:long>6.01755300</geo:long>
+    <geo:lat>46.1877710</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85043166">
+    <geo:stopName>Le Locle</geo:stopName>
+    <geo:long>6.74616000</geo:long>
+    <geo:lat>47.0578600</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010074">
+    <geo:stopName>Vernier</geo:stopName>
+    <geo:long>6.09389200</geo:long>
+    <geo:lat>46.2207100</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80251850">
+    <geo:stopName>Konz Mitte</geo:stopName>
+    <geo:long>6.57329000</geo:long>
+    <geo:lat>49.7000460</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001248">
+    <geo:stopName>St-Ursanne</geo:stopName>
+    <geo:long>7.16596000</geo:long>
+    <geo:lat>47.3676900</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87110205">
+    <geo:stopName>Saint-Amandin</geo:stopName>
+    <geo:long>2.69462200</geo:long>
+    <geo:lat>45.3432180</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETramTrain-80253914">
+    <geo:stopName>Sarrebruck</geo:stopName>
+    <geo:long>6.99100000</geo:long>
+    <geo:lat>49.2410000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010082">
+    <geo:stopName>Geneve</geo:stopName>
+    <geo:long>6.14244000</geo:long>
+    <geo:lat>46.2102200</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107417">
+    <geo:stopName>Chaumont Hôpital</geo:stopName>
+    <geo:long>5.13941300</geo:long>
+    <geo:lat>48.1198810</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80253914">
+    <geo:stopName>Sarrebruck</geo:stopName>
+    <geo:long>6.99100000</geo:long>
+    <geo:lat>49.2410000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80253914">
+    <geo:stopName>Sarrebruck</geo:stopName>
+    <geo:long>6.99100000</geo:long>
+    <geo:lat>49.2410000</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80251850">
+    <geo:stopName>Konz Mitte</geo:stopName>
+    <geo:long>6.57329000</geo:long>
+    <geo:lat>49.7000460</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001230">
+    <geo:stopName>Glovelier</geo:stopName>
+    <geo:long>7.20931000</geo:long>
+    <geo:lat>47.3352000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001594">
+    <geo:stopName>Grenchen Nord</geo:stopName>
+    <geo:long>7.38947000</geo:long>
+    <geo:lat>47.1918000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010082">
+    <geo:stopName>Geneve</geo:stopName>
+    <geo:long>6.14244000</geo:long>
+    <geo:lat>46.2102200</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85011031">
+    <geo:stopName>Vallorbe</geo:stopName>
+    <geo:long>6.37057000</geo:long>
+    <geo:lat>46.7124200</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82009300">
+    <geo:stopName>Petange</geo:stopName>
+    <geo:long>5.87860000</geo:long>
+    <geo:lat>49.5541900</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001255">
+    <geo:stopName>Courgenay</geo:stopName>
+    <geo:long>7.12421000</geo:long>
+    <geo:lat>47.4052200</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010066">
+    <geo:stopName>Meyrin</geo:stopName>
+    <geo:long>6.07690000</geo:long>
+    <geo:lat>46.2223500</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82006030">
+    <geo:stopName>Bettembourg</geo:stopName>
+    <geo:long>6.10111100</geo:long>
+    <geo:lat>49.5161110</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107425">
+    <geo:stopName>Bologne Salle des Fêtes</geo:stopName>
+    <geo:long>5.14141600</geo:long>
+    <geo:lat>48.1997370</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80142901">
+    <geo:stopName>Legelshurst</geo:stopName>
+    <geo:long>7.91380000</geo:long>
+    <geo:lat>48.5585000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-82006030">
+    <geo:stopName>Bettembourg</geo:stopName>
+    <geo:long>6.10111100</geo:long>
+    <geo:lat>49.5161110</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-71793150">
+    <geo:stopName>Portbou</geo:stopName>
+    <geo:long>3.15803400</geo:long>
+    <geo:lat>42.4247010</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80251967">
+    <geo:stopName>Perl</geo:stopName>
+    <geo:long>6.36930000</geo:long>
+    <geo:lat>49.4731000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-80144154">
+    <geo:stopName>Neuenburg (Baden)</geo:stopName>
+    <geo:long>7.56280000</geo:long>
+    <geo:lat>47.8115000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87009712">
+    <geo:stopName>Saint-Vaast-Dieppedalle</geo:stopName>
+    <geo:long>0.72141500</geo:long>
+    <geo:lat>49.7558500</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107433">
+    <geo:stopName>Soncourt</geo:stopName>
+    <geo:long>5.11697100</geo:long>
+    <geo:lat>48.2522390</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85042218">
+    <geo:stopName>Neuchatel</geo:stopName>
+    <geo:long>6.93571000</geo:long>
+    <geo:lat>46.9967300</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001263">
+    <geo:stopName>Porrentruy</geo:stopName>
+    <geo:long>7.08009000</geo:long>
+    <geo:lat>47.4209100</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001248">
+    <geo:stopName>St-Ursanne</geo:stopName>
+    <geo:long>7.16596000</geo:long>
+    <geo:lat>47.3676900</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82007187">
+    <geo:stopName>Bascharage secteur Sanem</geo:stopName>
+    <geo:long>5.92490000</geo:long>
+    <geo:lat>49.5585000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001222">
+    <geo:stopName>Bassecourt</geo:stopName>
+    <geo:long>7.24685000</geo:long>
+    <geo:lat>47.3366800</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85043166">
+    <geo:stopName>Le Locle</geo:stopName>
+    <geo:long>6.74616000</geo:long>
+    <geo:lat>47.0578600</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85001446">
+    <geo:stopName>Buix</geo:stopName>
+    <geo:long>7.02998000</geo:long>
+    <geo:lat>47.4793300</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85011031">
+    <geo:stopName>Vallorbe</geo:stopName>
+    <geo:long>6.37057000</geo:long>
+    <geo:lat>46.7124200</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001255">
+    <geo:stopName>Courgenay</geo:stopName>
+    <geo:long>7.12421000</geo:long>
+    <geo:lat>47.4052200</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80142919">
+    <geo:stopName>Kork</geo:stopName>
+    <geo:long>7.87440000</geo:long>
+    <geo:lat>48.5702000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87110361">
+    <geo:stopName>Villeneuve-au-Chemin</geo:stopName>
+    <geo:long>3.85131700</geo:long>
+    <geo:lat>48.0899010</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85000109">
+    <geo:stopName>Basel SBB</geo:stopName>
+    <geo:long>7.58956000</geo:long>
+    <geo:lat>47.5474000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001230">
+    <geo:stopName>Glovelier</geo:stopName>
+    <geo:long>7.20931000</geo:long>
+    <geo:lat>47.3352000</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001594">
+    <geo:stopName>Grenchen Nord</geo:stopName>
+    <geo:long>7.38947000</geo:long>
+    <geo:lat>47.1918000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87009712">
+    <geo:stopName>Saint-Vaast-Dieppedalle</geo:stopName>
+    <geo:long>0.72141500</geo:long>
+    <geo:lat>49.7558500</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80142919">
+    <geo:stopName>Kork</geo:stopName>
+    <geo:long>7.87440000</geo:long>
+    <geo:lat>48.5702000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85042218">
+    <geo:stopName>Neuchatel</geo:stopName>
+    <geo:long>6.93571000</geo:long>
+    <geo:lat>46.9967300</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE71793150">
+    <geo:stopName>Portbou</geo:stopName>
+    <geo:long>3.15803400</geo:long>
+    <geo:lat>42.4247010</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107508">
+    <geo:stopName>Marnaval Église</geo:stopName>
+    <geo:long>4.99012100</geo:long>
+    <geo:lat>48.6253500</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82002370">
+    <geo:stopName>Rodange</geo:stopName>
+    <geo:long>5.84364200</geo:long>
+    <geo:lat>49.5509110</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001271">
+    <geo:stopName>Courtemaîche</geo:stopName>
+    <geo:long>7.05539000</geo:long>
+    <geo:lat>47.4558700</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80142927">
+    <geo:stopName>Kehl</geo:stopName>
+    <geo:long>7.80630000</geo:long>
+    <geo:lat>48.5767000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82007146">
+    <geo:stopName>Dippach secteur Reckange</geo:stopName>
+    <geo:long>5.99512000</geo:long>
+    <geo:lat>49.5725200</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80251967">
+    <geo:stopName>Perl</geo:stopName>
+    <geo:long>6.36930000</geo:long>
+    <geo:lat>49.4731000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107409">
+    <geo:stopName>Vignory Centre</geo:stopName>
+    <geo:long>5.10141900</geo:long>
+    <geo:lat>48.2783520</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010074">
+    <geo:stopName>Vernier</geo:stopName>
+    <geo:long>6.09389200</geo:long>
+    <geo:lat>46.2207100</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-82001000">
+    <geo:stopName>Luxembourg</geo:stopName>
+    <geo:long>6.13472200</geo:long>
+    <geo:lat>49.5997220</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010066">
+    <geo:stopName>Meyrin</geo:stopName>
+    <geo:long>6.07690000</geo:long>
+    <geo:lat>46.2223500</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87110379">
+    <geo:stopName>Fays-la-Chapelle</geo:stopName>
+    <geo:long>4.01893300</geo:long>
+    <geo:lat>48.1296960</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80142901">
+    <geo:stopName>Legelshurst</geo:stopName>
+    <geo:long>7.91380000</geo:long>
+    <geo:lat>48.5585000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001263">
+    <geo:stopName>Porrentruy</geo:stopName>
+    <geo:long>7.08009000</geo:long>
+    <geo:lat>47.4209100</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87101998">
+    <geo:stopName>Durdat-Larequille</geo:stopName>
+    <geo:long>2.70215400</geo:long>
+    <geo:lat>46.2508540</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87110346">
+    <geo:stopName>Ervy-le-Châtel Halles</geo:stopName>
+    <geo:long>3.91092900</geo:long>
+    <geo:lat>48.0416740</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87108829">
+    <geo:stopName>Sedan Place Calonne</geo:stopName>
+    <geo:long>4.94424500</geo:long>
+    <geo:lat>49.6997470</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87108829">
+    <geo:stopName>Sedan Place Calonne</geo:stopName>
+    <geo:long>4.94424500</geo:long>
+    <geo:lat>49.6997470</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87003707">
+    <geo:stopName>Ydes</geo:stopName>
+    <geo:long>2.43632600</geo:long>
+    <geo:lat>45.3441550</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85162727">
+    <geo:stopName>Genève-Champel</geo:stopName>
+    <geo:long>6.15350500</geo:long>
+    <geo:lat>46.1921910</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85042150">
+    <geo:stopName>Travers</geo:stopName>
+    <geo:long>6.67657000</geo:long>
+    <geo:lat>46.9424100</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001289">
+    <geo:stopName>Boncourt</geo:stopName>
+    <geo:long>7.01656000</geo:long>
+    <geo:lat>47.4926300</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010033">
+    <geo:stopName>Satigny</geo:stopName>
+    <geo:long>6.03749000</geo:long>
+    <geo:lat>46.2142400</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107474">
+    <geo:stopName>Saint-Dizier Godard-Jeanson</geo:stopName>
+    <geo:long>4.95030400</geo:long>
+    <geo:lat>48.6314070</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010157">
+    <geo:stopName>Tannay</geo:stopName>
+    <geo:long>6.18112700</geo:long>
+    <geo:lat>46.3076360</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87005397">
+    <geo:stopName>Cany-Barville</geo:stopName>
+    <geo:long>0.63780500</geo:long>
+    <geo:lat>49.7886290</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87101998">
+    <geo:stopName>Durdat-Larequille</geo:stopName>
+    <geo:long>2.70215400</geo:long>
+    <geo:lat>46.2508540</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80143503">
+    <geo:stopName>Freiburg (Breisgau) Hbf</geo:stopName>
+    <geo:long>7.84160000</geo:long>
+    <geo:lat>47.9979000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85011031">
+    <geo:stopName>Vallorbe</geo:stopName>
+    <geo:long>6.37057000</geo:long>
+    <geo:lat>46.7124200</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87110346">
+    <geo:stopName>Ervy-le-Châtel Halles</geo:stopName>
+    <geo:long>3.91092900</geo:long>
+    <geo:lat>48.0416740</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80251819">
+    <geo:stopName>Trèves</geo:stopName>
+    <geo:long>6.65220000</geo:long>
+    <geo:lat>49.7568000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85000109">
+    <geo:stopName>Basel SBB</geo:stopName>
+    <geo:long>7.58956000</geo:long>
+    <geo:lat>47.5474000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010140">
+    <geo:stopName>Mies</geo:stopName>
+    <geo:long>6.16956600</geo:long>
+    <geo:lat>46.2998790</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85162735">
+    <geo:stopName>Genève-Eaux-Vives</geo:stopName>
+    <geo:long>6.16658000</geo:long>
+    <geo:lat>46.2014440</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001057">
+    <geo:stopName>Moutier</geo:stopName>
+    <geo:long>7.38105000</geo:long>
+    <geo:lat>47.2806700</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80144154">
+    <geo:stopName>Neuenburg (Baden)</geo:stopName>
+    <geo:long>7.56280000</geo:long>
+    <geo:lat>47.8115000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107482">
+    <geo:stopName>Chatonrupt</geo:stopName>
+    <geo:long>5.12729000</geo:long>
+    <geo:lat>48.4885990</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010025">
+    <geo:stopName>Russin</geo:stopName>
+    <geo:long>6.01755300</geo:long>
+    <geo:lat>46.1877710</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80142893">
+    <geo:stopName>Appenweier</geo:stopName>
+    <geo:long>7.97350000</geo:long>
+    <geo:lat>48.5419000</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107508">
+    <geo:stopName>Marnaval Église</geo:stopName>
+    <geo:long>4.99012100</geo:long>
+    <geo:lat>48.6253500</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-80253914">
+    <geo:stopName>Sarrebruck</geo:stopName>
+    <geo:long>6.99100000</geo:long>
+    <geo:lat>49.2410000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82002370">
+    <geo:stopName>Rodange</geo:stopName>
+    <geo:long>5.84364200</geo:long>
+    <geo:lat>49.5509110</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82007146">
+    <geo:stopName>Dippach secteur Reckange</geo:stopName>
+    <geo:long>5.99512000</geo:long>
+    <geo:lat>49.5725200</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010207">
+    <geo:stopName>Chambésy</geo:stopName>
+    <geo:long>6.14734200</geo:long>
+    <geo:lat>46.2423780</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001446">
+    <geo:stopName>Buix</geo:stopName>
+    <geo:long>7.02998000</geo:long>
+    <geo:lat>47.4793300</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001206">
+    <geo:stopName>Courtételle</geo:stopName>
+    <geo:long>7.31794000</geo:long>
+    <geo:lat>47.3428200</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80143099">
+    <geo:stopName>Offenburg</geo:stopName>
+    <geo:long>7.94680000</geo:long>
+    <geo:lat>48.4765000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85010082">
+    <geo:stopName>Geneve</geo:stopName>
+    <geo:long>6.14244000</geo:long>
+    <geo:lat>46.2102200</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107490">
+    <geo:stopName>Fronville Lotissement</geo:stopName>
+    <geo:long>5.15470800</geo:long>
+    <geo:lat>48.4046620</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87110205">
+    <geo:stopName>Saint-Amandin</geo:stopName>
+    <geo:long>2.69462200</geo:long>
+    <geo:lat>45.3432180</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001214">
+    <geo:stopName>Courfaivre</geo:stopName>
+    <geo:long>7.29117000</geo:long>
+    <geo:lat>47.3350800</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001271">
+    <geo:stopName>Courtemaîche</geo:stopName>
+    <geo:long>7.05539000</geo:long>
+    <geo:lat>47.4558700</geo:lat>
+  </geo:SpatialThing>
+  <rdf:Description rdf:about="http://example.org/stops/stop_id">
+    <geo:stopDesc>stop_desc</geo:stopDesc>
+    <geo:stopName>stop_name</geo:stopName>
+    <geo:long>stop_lon</geo:long>
+    <geo:lat>stop_lat</geo:lat>
+  </rdf:Description>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85162834">
+    <geo:stopName>Genève-Sécheron</geo:stopName>
+    <geo:long>6.14455700</geo:long>
+    <geo:lat>46.2224380</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-82002370">
+    <geo:stopName>Rodange</geo:stopName>
+    <geo:long>5.84364200</geo:long>
+    <geo:lat>49.5509110</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82001000">
+    <geo:stopName>Luxembourg</geo:stopName>
+    <geo:long>6.13472200</geo:long>
+    <geo:lat>49.5997220</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE83045013">
+    <geo:stopName>VENTIMIGLIA</geo:stopName>
+    <geo:long>7.61023300</geo:long>
+    <geo:lat>43.7925690</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82007104">
+    <geo:stopName>Luxembourg secteur Hollerich</geo:stopName>
+    <geo:long>6.11878000</geo:long>
+    <geo:lat>49.5958600</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001222">
+    <geo:stopName>Bassecourt</geo:stopName>
+    <geo:long>7.24685000</geo:long>
+    <geo:lat>47.3366800</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85171421">
+    <geo:stopName>Lancy-Bachet</geo:stopName>
+    <geo:long>6.12937200</geo:long>
+    <geo:lat>46.1743330</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82006030">
+    <geo:stopName>Bettembourg</geo:stopName>
+    <geo:long>6.10111100</geo:long>
+    <geo:lat>49.5161110</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82009300">
+    <geo:stopName>Petange</geo:stopName>
+    <geo:long>5.87860000</geo:long>
+    <geo:lat>49.5541900</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-80144139">
+    <geo:stopName>Muellheim (Baden)</geo:stopName>
+    <geo:long>7.59960000</geo:long>
+    <geo:lat>47.8100000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85001263">
+    <geo:stopName>Porrentruy</geo:stopName>
+    <geo:long>7.08009000</geo:long>
+    <geo:lat>47.4209100</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82001000">
+    <geo:stopName>Luxembourg</geo:stopName>
+    <geo:long>6.13472200</geo:long>
+    <geo:lat>49.5997220</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85043158">
+    <geo:stopName>Le Crêt-du-Locle</geo:stopName>
+    <geo:long>6.78519000</geo:long>
+    <geo:lat>47.0776000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85161554">
+    <geo:stopName>Lancy-Pont-Rouge</geo:stopName>
+    <geo:long>6.12533300</geo:long>
+    <geo:lat>46.1888970</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010231">
+    <geo:stopName>Coppet</geo:stopName>
+    <geo:long>6.18782900</geo:long>
+    <geo:lat>46.3173780</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010116">
+    <geo:stopName>Les Tuileries</geo:stopName>
+    <geo:long>6.14734200</geo:long>
+    <geo:lat>46.2499450</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107433">
+    <geo:stopName>Soncourt</geo:stopName>
+    <geo:long>5.11697100</geo:long>
+    <geo:lat>48.2522390</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010231">
+    <geo:stopName>Coppet</geo:stopName>
+    <geo:long>6.18782900</geo:long>
+    <geo:lat>46.3173780</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87110171">
+    <geo:stopName>Landeyrat</geo:stopName>
+    <geo:long>2.86959400</geo:long>
+    <geo:lat>45.2798150</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87009696">
+    <geo:stopName>La Douzillère</geo:stopName>
+    <geo:long>0.65296200</geo:long>
+    <geo:lat>47.3387920</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010116">
+    <geo:stopName>Les Tuileries</geo:stopName>
+    <geo:long>6.14734200</geo:long>
+    <geo:lat>46.2499450</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85162750">
+    <geo:stopName>Chêne-Bourg</geo:stopName>
+    <geo:long>6.19725300</geo:long>
+    <geo:lat>46.1966070</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85043158">
+    <geo:stopName>Le Crêt-du-Locle</geo:stopName>
+    <geo:long>6.78519000</geo:long>
+    <geo:lat>47.0776000</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001099">
+    <geo:stopName>Delemont</geo:stopName>
+    <geo:long>7.35007000</geo:long>
+    <geo:lat>47.3620000</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-87109306">
+    <geo:stopName>Lille Centre Hospitalier Régional</geo:stopName>
+    <geo:long>3.03427800</geo:long>
+    <geo:lat>50.6142970</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85001412">
+    <geo:stopName>Courchavon</geo:stopName>
+    <geo:long>7.05765000</geo:long>
+    <geo:lat>47.4397700</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85001271">
+    <geo:stopName>Courtemaîche</geo:stopName>
+    <geo:long>7.05539000</geo:long>
+    <geo:lat>47.4558700</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-80142927">
+    <geo:stopName>Kehl</geo:stopName>
+    <geo:long>7.80630000</geo:long>
+    <geo:lat>48.5767000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010223">
+    <geo:stopName>Versoix</geo:stopName>
+    <geo:long>6.16574800</geo:long>
+    <geo:lat>46.2797170</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85043166">
+    <geo:stopName>Le Locle</geo:stopName>
+    <geo:long>6.74616000</geo:long>
+    <geo:lat>47.0578600</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87007146">
+    <geo:stopName>Saint-Valéry-en-Caux Port</geo:stopName>
+    <geo:long>0.71169500</geo:long>
+    <geo:lat>49.8675170</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87007146">
+    <geo:stopName>Saint-Valéry-en-Caux Port</geo:stopName>
+    <geo:long>0.71169500</geo:long>
+    <geo:lat>49.8675170</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE82002501">
+    <geo:stopName>Howald</geo:stopName>
+    <geo:long>6.13232000</geo:long>
+    <geo:lat>49.5803200</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85161554">
+    <geo:stopName>Lancy-Pont-Rouge</geo:stopName>
+    <geo:long>6.12533300</geo:long>
+    <geo:lat>46.1888970</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010124">
+    <geo:stopName>Creux-de-Genthod</geo:stopName>
+    <geo:long>6.16131900</geo:long>
+    <geo:lat>46.2637580</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87024380">
+    <geo:stopName>Le Puy-en-Velay Lafayette</geo:stopName>
+    <geo:long>3.87995900</geo:long>
+    <geo:lat>45.0439620</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010009">
+    <geo:stopName>Zimeysa</geo:stopName>
+    <geo:long>6.06573900</geo:long>
+    <geo:lat>46.2212630</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-82007104">
+    <geo:stopName>Luxembourg secteur Hollerich</geo:stopName>
+    <geo:long>6.11878000</geo:long>
+    <geo:lat>49.5958600</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85043141">
+    <geo:stopName>La Chaux-de-Fonds</geo:stopName>
+    <geo:long>6.82603000</geo:long>
+    <geo:lat>47.0986500</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107458">
+    <geo:stopName>Gudmont-Centre</geo:stopName>
+    <geo:long>5.13696900</geo:long>
+    <geo:lat>48.3425160</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80144139">
+    <geo:stopName>Muellheim (Baden)</geo:stopName>
+    <geo:long>7.59960000</geo:long>
+    <geo:lat>47.8100000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010132">
+    <geo:stopName>Pont-Céard</geo:stopName>
+    <geo:long>6.16266700</geo:long>
+    <geo:lat>46.2873900</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87009696">
+    <geo:stopName>La Douzillère</geo:stopName>
+    <geo:long>0.65296200</geo:long>
+    <geo:lat>47.3387920</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-85001289">
+    <geo:stopName>Boncourt</geo:stopName>
+    <geo:long>7.01656000</geo:long>
+    <geo:lat>47.4926300</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107482">
+    <geo:stopName>Chatonrupt</geo:stopName>
+    <geo:long>5.12729000</geo:long>
+    <geo:lat>48.4885990</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE80144139">
+    <geo:stopName>Muellheim (Baden)</geo:stopName>
+    <geo:long>7.59960000</geo:long>
+    <geo:lat>47.8100000</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010215">
+    <geo:stopName>Genthod-Bellevue</geo:stopName>
+    <geo:long>6.15396200</geo:long>
+    <geo:lat>46.2567280</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001099">
+    <geo:stopName>Delemont</geo:stopName>
+    <geo:long>7.35007000</geo:long>
+    <geo:lat>47.3620000</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85001412">
+    <geo:stopName>Courchavon</geo:stopName>
+    <geo:long>7.05765000</geo:long>
+    <geo:lat>47.4397700</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87110197">
+    <geo:stopName>Condat</geo:stopName>
+    <geo:long>2.75983800</geo:long>
+    <geo:lat>45.3348350</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85162750">
+    <geo:stopName>Chêne-Bourg</geo:stopName>
+    <geo:long>6.19725300</geo:long>
+    <geo:lat>46.1966070</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87109306">
+    <geo:stopName>Lille Centre Hospitalier Régional</geo:stopName>
+    <geo:long>3.03427800</geo:long>
+    <geo:lat>50.6142970</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010124">
+    <geo:stopName>Creux-de-Genthod</geo:stopName>
+    <geo:long>6.16131900</geo:long>
+    <geo:lat>46.2637580</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87107466">
+    <geo:stopName>Eurville Mairie</geo:stopName>
+    <geo:long>5.03725000</geo:long>
+    <geo:lat>48.5852970</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85010009">
+    <geo:stopName>Zimeysa</geo:stopName>
+    <geo:long>6.06573900</geo:long>
+    <geo:lat>46.2212630</geo:lat>
+  </geo:Point>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-85043141">
+    <geo:stopName>La Chaux-de-Fonds</geo:stopName>
+    <geo:long>6.82603000</geo:long>
+    <geo:lat>47.0986500</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87111864">
+    <geo:stopName>Balsièges Bourg</geo:stopName>
+    <geo:long>3.45659800</geo:long>
+    <geo:lat>44.4822120</geo:lat>
+  </geo:SpatialThing>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85010223">
+    <geo:stopName>Versoix</geo:stopName>
+    <geo:long>6.16574800</geo:long>
+    <geo:lat>46.2797170</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCECar_TER-87110189">
+    <geo:stopName>Marcenat</geo:stopName>
+    <geo:long>2.82872200</geo:long>
+    <geo:lat>45.3052590</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE85043000">
+    <geo:stopName>Biel/Bienne</geo:stopName>
+    <geo:long>7.24292000</geo:long>
+    <geo:lat>47.1328900</geo:lat>
+  </geo:SpatialThing>
+  <geo:Point rdf:about="http://example.org/stops/StopPoint:OCETrain_TER-80144154">
+    <geo:stopName>Neuenburg (Baden)</geo:stopName>
+    <geo:long>7.56280000</geo:long>
+    <geo:lat>47.8115000</geo:lat>
+  </geo:Point>
+  <geo:SpatialThing rdf:about="http://example.org/stops/StopArea:OCE87107490">
+    <geo:stopName>Fronville Lotissement</geo:stopName>
+    <geo:long>5.15470800</geo:long>
+    <geo:lat>48.4046620</geo:lat>
+  </geo:SpatialThing>
+</rdf:RDF>
